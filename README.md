@@ -79,7 +79,7 @@ Sistema para registrar, actualizar y visualizar la asistencia de alumnos mediant
 
 <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=danielvazquezpalestino&theme=tokyonight&hide_border=true" />
 
-<img alt="Gráfica de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=danielvazquezpalestino&theme=tokyo-night&hide_border=true" />
+
 
 </div>
 

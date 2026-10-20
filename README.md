@@ -74,7 +74,7 @@ Sistema para registrar, actualizar y visualizar la asistencia de alumnos mediant
 
 <div align="center">
 
-<img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=danielvazquezpalestino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=danielvazquezpalestinoshow_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvazquezpalestino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=danielvazquezpalestino&theme=tokyonight&hide_border=true" />

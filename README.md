@@ -70,6 +70,21 @@ Sistema para registrar, actualizar y visualizar la asistencia de alumnos mediant
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=danielvazquezpalestino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvazquezpalestino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=danielvazquezpalestino&theme=tokyonight&hide_border=true" />
+
+<img alt="Gráfica de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=danielvazquezpalestino&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
 ## 🎓 Formación académica
 
 **Universidad Tecnológica de Puebla**
@@ -90,10 +105,5 @@ Tecnologías de la Información, área Desarrollo de Software
 <div align="center">
 
 ⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes una oportunidad, escríbeme.
-
-</div>
-<div align="center">
-
-
 
 </div>

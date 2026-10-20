@@ -92,3 +92,8 @@ Tecnologías de la Información, área Desarrollo de Software
 ⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes una oportunidad, escríbeme.
 
 </div>
+<div align="center">
+
+
+
+</div>

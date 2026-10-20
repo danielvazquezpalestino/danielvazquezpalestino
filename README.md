@@ -1,5 +1,3 @@
-# Daniel-V-zquez-Palestino-
-
 <div align="center">
 
 # 👋 Hola, soy Daniel Vázquez Palestino

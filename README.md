@@ -97,8 +97,8 @@ Tecnologías de la Información, área Desarrollo de Software
 ## 📫 Contacto
 
 - 💻 GitHub: [@danielvazquezpalestino](https://github.com/danielvazquezpalestino)
-- 📧 Correo: *tu-correo@ejemplo.com*
-- 💼 LinkedIn: *tu-enlace-de-linkedin*
+- 📧 Correo: *daniel.vazquezpalestino@gmail.com*
+- 💼 LinkedIn: *www.linkedin.com/in/jose-daniel-vazquez-palestino-833745346*
 
 ---
 

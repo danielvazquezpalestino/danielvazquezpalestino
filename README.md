@@ -51,24 +51,7 @@ Me especializo en construir **APIs REST escalables y mantenibles** con Node.js y
 
 ---
 
-## 🚀 Proyectos destacados
 
-### 🔧 [Ofiscer](https://github.com/danielvazquezpalestino/Ofiscer)
-Plataforma que conecta trabajadores de oficios (plomeros, electricistas, carpinteros, pintores, etc.) con clientes que necesitan sus servicios cerca de su ubicación.
-
-### 📄 [Sistema de pagarés](https://github.com/danielvazquezpalestino/Sistema-de-pagar-s-)
-`.NET` · `Angular`
-Sistema para la gestión de pagarés conforme a la normativa legal mexicana, con backend en .NET y frontend en Angular.
-
-### 🛒 [Sistema de control de inventario / ventas](https://github.com/danielvazquezpalestino/PuntoDeVenta)
-`C#` · `Windows Forms` · `SQL Server`
-Sistema de escritorio con Programación Orientada a Objetos y módulos para administración de productos, clientes y ventas.
-
-### 🗓️ [Aplicación web para control de asistencias](https://github.com/danielvazquezpalestino/Sistema-web)
-`Node.js` · `Express` · `EJS` · `MySQL`
-Sistema para registrar, actualizar y visualizar la asistencia de alumnos mediante una interfaz web responsiva, con backend en Node.js y Express.
-
----
 
 ## 📊 Estadísticas de GitHub
 

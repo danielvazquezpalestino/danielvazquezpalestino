@@ -3,7 +3,9 @@
 # 👋 Hola, soy Daniel Vázquez Palestino
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=30&pause=1000&color=F71098&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Daniel+V%C3%A1zquez+%F0%9F%91%8B;Desarrollador+de+Software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=30&pause=1000&color=F71098&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Daniel+V%C3%A1zquez+%F0%9F%91%8B;Desarrollador+de+Software+desde+M%C3%A9xico+%3A%29" alt="Typing SVG" />
+  </a>
 </div>
 
 # 👋 Hola, soy Daniel Vázquez Palestino

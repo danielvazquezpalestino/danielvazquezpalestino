@@ -56,17 +56,9 @@ Me especializo en construir **APIs REST escalables y mantenibles** con Node.js y
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-<!-- Gráfica de actividad -->
-<img alt="Actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=danielvazquezpalestino&theme=tokyo-night&hide_border=true" />
-
-<!-- Trofeos -->
-<img alt="Trofeos" src="https://github-profile-trophy.vercel.app/?username=danielvazquezpalestino&theme=tokyonight" />
-
 <!-- Tarjetas de resumen de perfil -->
 <img alt="Resumen" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielvazquezpalestino&theme=tokyonight" />
 
-<!-- Contador de visitas -->
-<img alt="Visitas" src="https://komarev.com/ghpvc/?username=danielvazquezpalestino&color=blue" />
 
 ---
 

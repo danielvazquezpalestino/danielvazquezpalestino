@@ -65,6 +65,7 @@ Me especializo en construir **APIs REST escalables y mantenibles** con Node.js y
 <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=danielvazquezpalestino&theme=tokyonight&hide_border=true" />
 
 </div>   
+
 ---
 
 ## 🎓 Formación académica

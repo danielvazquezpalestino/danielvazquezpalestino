@@ -2,6 +2,12 @@
 
 # 👋 Hola, soy Daniel Vázquez Palestino
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=30&pause=1000&color=F71098&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Daniel+V%C3%A1zquez+%F0%9F%91%8B;Desarrollador+de+Software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+</div>
+
+# 👋 Hola, soy Daniel Vázquez Palestino
+
 ### Desarrollador Backend Junior | Node.js · Express.js · APIs REST
 
 Estudiante de Tecnologías de la Información (10° cuatrimestre) en la Universidad Tecnológica de Puebla, especializado en desarrollo backend con arquitectura limpia y programación orientada a objetos.
